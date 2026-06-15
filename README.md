@@ -18,6 +18,7 @@ I build things for the web and occasionally break production at 2am. Currently e
 
 - flipkart clone
 - Restaurant web site
+- Car buy site
 
 ### 🛠 Tech stack
 
