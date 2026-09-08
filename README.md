@@ -42,14 +42,14 @@
 ```yaml
 shiyam_sundar:
   role: "Full Stack Developer"
-  company: "DB Techs"
+  company: "ZEPHYROTEK"
   internship: "DigiSailor"
   focus: ["Web Development", "DSA", "Problem Solving"]
   current_goal: "Building scalable & elegant applications"
   fun_fact: "I debug with coffee in one hand ☕"
 ```
 
-- 🔭 Currently working as a **Full Stack Developer at DB Techs**
+- 🔭 Currently working as a **Full Stack Developer at ZEPHYROTEK**
 - 🎓 Completed an internship at **DigiSailor**
 - 🌱 Constantly sharpening my skills in **DSA & System Design**
 - 💬 Ask me about **React, JavaScript, Java, Python, C++**
